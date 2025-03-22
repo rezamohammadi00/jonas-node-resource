@@ -1,3 +1,4 @@
+//   const features = new APIFeatures(Tour.find(), req.query)
 class APIFeatures {
   constructor(query, queryString) {
     this.query = query;
